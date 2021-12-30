@@ -10,9 +10,9 @@ Put the math expression within <span>$</span>...\$:
 
 \\(\LaTeX{}\\)
 
-$\Pi$
+\$\Pi\$
 
-$ a * b = c ^ b $
+\$ a * b = c ^ b \$
 
 $ 2^{\frac{n-1}{3}} $
 
@@ -123,7 +123,7 @@ Reload the Nginx:
 $ sudo nginx -s reload
 ```
 
-|:                        |:                  :|: $$O_3 + C_2H_2 \rightarrow $$         :|||:  $$O_3 + C_2H_4 \rightarrow $$ :|||:       :| 
+|:                        |:                  :|: $$O_3 + C_2H_2 \rightarrow $$         :|||:  $$O_3 + C_2H_4 \rightarrow $$ :|||:       :|
 |:  ^^ Method            :| ^^ $$\lambda^a$$  |    vdW |    TS |    cycloadd.           |  vdW  |  TS  |  cycloadd.           | ^^ MAE    |
 |-------------------------|-------------------|--------|-------|------------------------|-------|------|----------------------|-----------|
 | $$\lambda$$-tPBE        |   0.20            | -0.40  | 7.69  | -68.00                 | -1.86 | 4.87 | -57.57               | 1.29      |
@@ -312,4 +312,3 @@ Tips:
 The two markdown examples below both create this table.
 
 Use pipes `{% raw %}(`|`){% endraw %}` to delineate columns, and dashes to delineate the header row from the rest of the table.
-
