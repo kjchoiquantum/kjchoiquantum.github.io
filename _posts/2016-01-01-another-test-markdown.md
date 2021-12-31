@@ -4,16 +4,16 @@ title: Another test markdown
 subtitle: Each post also has a subtitle
 categories: markdown
 tags: [test]
-mathjax: true
+use_math: true
 ---
 
 Put the math expression within <span>$</span>...\$:
 
 \\(\LaTeX{}\\)
 
-\$\Pi\$
+$\Pi$
 
-\$ a * b = c ^ b \$
+$ a * b = c ^ b $
 
 $ 2^{\frac{n-1}{3}} $
 
