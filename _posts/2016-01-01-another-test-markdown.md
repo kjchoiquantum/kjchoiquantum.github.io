@@ -13,9 +13,9 @@ Put the math expression within <span>$</span>...\$:
 
 $\Pi$
 
-$ a * b = c ^ b $
+$a*b = c^b$
 
-$ 2^{\frac{n-1}{3}} $
+$2^{\frac{n-1}{3}}$
 
 $ \int\_a^b f(x)\,dx. $
 
