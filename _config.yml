@@ -195,8 +195,11 @@ yat:
 #   redirect_uri: "Your redirect url"   # If you use a custom domain name
 
 # Build settings
-# highlighter: none
+highlighter: rouge
 markdown: kramdown
+lsi: false
+excerpt_separator: '\n\n'
+incremental: false
 kmarkdown:
   input: GFM
 
